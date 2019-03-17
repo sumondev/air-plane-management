@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin:auto;
+    
+    
+    
+}
+
+
+
+
+body{
+    
+    background-image:url(img/jet.jpg);
+    min-height: 1000px;
+    
+    
+}
+
+.admin_panel{
+    
+    background-color: rgba(66, 244, 155,.5);
+    min-height: 1000px;
+
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.banner{
+     text-align: center;
+     font-size: 70px;
+    padding: 30px;
+    font: georgia;
+    text-transform: capitalize;
+    color: white;
+    
+    background-color: rgba(64, 79, 77,.5); 
+}
+
+.admin_panel .panel{
+    
+    min-height: 900px;
+}
+
+.a{
+    background-color: rgba(126, 96, 132,1);
+    height: 250px;
+    float: left;
+    color: white;
+    font: georgia;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 250px;
+    font-size: 40px;
+    padding: 50px;
+    margin-top: 200px;
+    border-radius: 10px;
+    width: 390px;
+    
+    
+}
+
+.b{
+    background-color: rgba(126, 96, 132,1);
+    height: 250px;
+    float: left;
+    color: white;
+    font: georgia;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 250px;
+    font-size: 40px;
+    padding: 50px;
+    margin-top: 200px;
+    border-radius: 10px;
+   
+    width: 390px;
+    margin-left: 220px;
+    
+    
+    
+    
+    
+    
+}
+
+.c{
+    
+    background-color: rgba(126, 96, 132,1);
+    height: 250px;
+    float: right;
+    color: white;
+    font: georgia;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 250px;
+    font-size: 40px;
+    padding: 50px;
+    margin-top:200px;
+    border-radius: 10px;
+    width: 390px;
+    
+    
+}
+
+
+ 
+
+
+.d{
+    background-color: rgba(126, 96, 132,1);
+    height: 100px;
+    float: left;
+    color: white;
+    font: georgia;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 250px;
+    font-size: 40px;
+    padding: 50px;
+    margin-top: 200px;
+    border-radius: 50px;
+    width: 250px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

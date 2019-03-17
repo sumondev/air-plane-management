@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+
+body{
+    background-image: url(img/plane.jpg);
+    min-height: 1000px;
+    
+    
+}
+
+
+.banner{
+    
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    font-size: 60px;
+    padding: 30px;
+    font: georgia;
+    text-transform: capitalize;
+    color:cyan;
+    background:#4D545E;
+    
+    
+}
+
+.panel{
+    
+    background-color: rgba(19, 193, 182,.6);
+    min-height: 900px;
+}
+
+.a , .b , .c{
+    
+    height: 220px;
+    background: rgba(153, 45, 0,.8);
+    float: left;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    color:azure;
+    width: 300px;
+    padding: 30px;
+    line-height: 220px;
+    border-radius: 6%;
+    margin-top: 100px;
+    
+}
+
+.b,.c{
+    margin-left: 411px;
+}
+
+
+.d,.e,.f{
+    
+    height: 220px;
+    background: rgba(153, 45, 0,.8);
+    float: left;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    color:azure;
+    width: 350px;
+    padding: 30px;
+    line-height: 220px;
+    border-radius: 6%;
+    margin-top: 150px;
+    
+    
+    
+}
+
+.e,.f{
+    margin-left: 336px;
+}
+
+.footer{
+    
+    text-align: center;
+    
+    height: 150px;
+    font-size: 40px;
+    padding: 30px;
+    line-height: 150px;
+    font: georgia;
+    text-transform: capitalize;
+    color:cyan;
+    background:#4D545E;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
